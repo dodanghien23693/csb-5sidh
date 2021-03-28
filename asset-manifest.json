@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://dodanghien23693.github.io/csb-5sidh/static/css/main.f950b942.chunk.css",
+    "main.js": "https://dodanghien23693.github.io/csb-5sidh/static/js/main.f2474e6c.chunk.js",
+    "main.js.map": "https://dodanghien23693.github.io/csb-5sidh/static/js/main.f2474e6c.chunk.js.map",
+    "runtime-main.js": "https://dodanghien23693.github.io/csb-5sidh/static/js/runtime-main.03ee7896.js",
+    "runtime-main.js.map": "https://dodanghien23693.github.io/csb-5sidh/static/js/runtime-main.03ee7896.js.map",
+    "static/js/2.2e7f8b0e.chunk.js": "https://dodanghien23693.github.io/csb-5sidh/static/js/2.2e7f8b0e.chunk.js",
+    "static/js/2.2e7f8b0e.chunk.js.map": "https://dodanghien23693.github.io/csb-5sidh/static/js/2.2e7f8b0e.chunk.js.map",
+    "index.html": "https://dodanghien23693.github.io/csb-5sidh/index.html",
+    "static/css/main.f950b942.chunk.css.map": "https://dodanghien23693.github.io/csb-5sidh/static/css/main.f950b942.chunk.css.map",
+    "static/js/2.2e7f8b0e.chunk.js.LICENSE.txt": "https://dodanghien23693.github.io/csb-5sidh/static/js/2.2e7f8b0e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.03ee7896.js",
+    "static/js/2.2e7f8b0e.chunk.js",
+    "static/css/main.f950b942.chunk.css",
+    "static/js/main.f2474e6c.chunk.js"
+  ]
+}
